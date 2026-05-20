@@ -1,0 +1,46 @@
+[33mtag v1.0[m
+Tagger: nithinreddy-g36 <nithinreddy3503@gmail.com>
+Date:   Wed May 20 15:49:02 2026 +0530
+
+Release version 1.0 — initial stable release
+
+[33mcommit 9bd13ba89f41530b10bfc292499bc7a1fd9df8e1[m[33m ([m[1;36mHEAD -> [m[1;32mrebase-demo[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/rebase-demo[m[33m)[m
+Author: nithinreddy-g36 <nithinreddy3503@gmail.com>
+Date:   Wed May 20 15:35:14 2026 +0530
+
+    WIP 1
+    
+    WIP 2
+    
+    WIP 3
+    
+    WIP 4 final
+
+[1mdiff --git a/r1.txt b/r1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a6b250d[m
+[1m--- /dev/null[m
+[1m+++ b/r1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mwork1[m
+[1mdiff --git a/r2.txt b/r2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a0057b6[m
+[1m--- /dev/null[m
+[1m+++ b/r2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mwork2[m
+[1mdiff --git a/r3.txt b/r3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cb33064[m
+[1m--- /dev/null[m
+[1m+++ b/r3.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mwork3[m
+[1mdiff --git a/r4.txt b/r4.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..53bd512[m
+[1m--- /dev/null[m
+[1m+++ b/r4.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mwork4[m
