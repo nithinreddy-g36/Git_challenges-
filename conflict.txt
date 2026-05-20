@@ -1,1 +1,1 @@
-Hello from main (User A)
+Hello from both users — conflict resolved
